@@ -12,22 +12,16 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 ---
 
-## Currently working on
-
-- EEG workload modelling and representation learning
-- RAG chatbots and automation tooling
-- Data pipelines and analytics
-
----
-
 ## Featured projects
 
-| Project | Description |
-|---|---|
-| [AERO](https://github.com/aether-raid/AERO) | Aether Raid project |
-| [Cortical Region Selection](https://github.com/aether-sutd/CorticalRegionSelection) | EEG cortical region analysis |
-| [ICP Verztec Chatbot](https://github.com/maximchongADO/ICP_Verztec_Chatbot) | RAG-powered enterprise chatbot |
-| [PSA Hackathon](https://github.com/maximchongg/PSA_hackathon) | PSA hackathon submission |
+<div align="center">
+
+[![AERO](https://gh-card.dev/repos/aether-raid/AERO.svg?fullname=)](https://github.com/aether-raid/AERO)
+[![CorticalRegionSelection](https://gh-card.dev/repos/aether-sutd/CorticalRegionSelection.svg?fullname=)](https://github.com/aether-sutd/CorticalRegionSelection)
+[![ICP Verztec Chatbot](https://gh-card.dev/repos/maximchongADO/ICP_Verztec_Chatbot.svg?fullname=)](https://github.com/maximchongADO/ICP_Verztec_Chatbot)
+[![PSA Hackathon](https://gh-card.dev/repos/maximchongg/PSA_hackathon.svg?fullname=)](https://github.com/maximchongg/PSA_hackathon)
+
+</div>
 
 ---
 
@@ -36,10 +30,14 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
@@ -50,8 +48,8 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 <div align="center">
 
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilove-datascience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilove-datascience&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilove-datascience&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilove-datascience&theme=tokyonight" height="160" />
 
 </div>
 
