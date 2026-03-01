@@ -54,9 +54,10 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilove-datascience&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilove-datascience&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilove-datascience&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
