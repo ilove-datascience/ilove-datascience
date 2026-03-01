@@ -16,10 +16,16 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 <div align="center">
 
-[![AERO](https://gh-card.dev/repos/aether-raid/AERO.svg?fullname=)](https://github.com/aether-raid/AERO)
-[![CorticalRegionSelection](https://gh-card.dev/repos/aether-sutd/CorticalRegionSelection.svg?fullname=)](https://github.com/aether-sutd/CorticalRegionSelection)
-[![ICP Verztec Chatbot](https://gh-card.dev/repos/maximchongADO/ICP_Verztec_Chatbot.svg?fullname=)](https://github.com/maximchongADO/ICP_Verztec_Chatbot)
-[![PSA Hackathon](https://gh-card.dev/repos/maximchongg/PSA_hackathon.svg?fullname=)](https://github.com/maximchongg/PSA_hackathon)
+<table>
+  <tr>
+    <td><a href="https://github.com/aether-raid/AERO"><img src="https://gh-card.dev/repos/aether-raid/AERO.svg?fullname=&theme=dark" /></a></td>
+    <td><a href="https://github.com/aether-sutd/CorticalRegionSelection"><img src="https://gh-card.dev/repos/aether-sutd/CorticalRegionSelection.svg?fullname=&theme=dark" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/maximchongADO/ICP_Verztec_Chatbot"><img src="https://gh-card.dev/repos/maximchongADO/ICP_Verztec_Chatbot.svg?fullname=&theme=dark" /></a></td>
+    <td><a href="https://github.com/maximchongg/PSA_hackathon"><img src="https://gh-card.dev/repos/maximchongg/PSA_hackathon.svg?fullname=&theme=dark" /></a></td>
+  </tr>
+</table>
 
 </div>
 
