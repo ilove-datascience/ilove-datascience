@@ -2,19 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jacob%20Wong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Systems&descSize=18&descAlignY=58&descColor=a9b1d6)
 
-<br>
-
 Data Science student based in Singapore, focused on machine learning, AI systems, and applied data engineering.
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-wong-160898274/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwwl6424@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilove-datascience)
 
 </div>
-
-<br>
 
 ## Featured Projects
 
@@ -30,8 +24,6 @@ Data Science student based in Singapore, focused on machine learning, AI systems
   </tr>
 </table>
 </div>
-
-<br>
 
 ## Tech Stack
 
@@ -50,8 +42,6 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 </div>
 
-<br>
-
 ## GitHub Stats
 
 <div align="center">
@@ -59,7 +49,5 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilove-datascience&theme=tokyonight" />
 
 </div>
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
