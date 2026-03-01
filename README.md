@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
 
-<!--
-**ilove-datascience/ilove-datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student in Singapore building ML + AI projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔭 EEG workload modelling / representation learning
+- 🤖 RAG chatbots and automation tooling
+- 📊 Data pipelines + analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [Project 1](https://github.com/<your-username>/<repo>)
+- [Project 2](https://github.com/<your-username>/<repo>)
+
+## Skills
+Python • SQL • PyTorch • FastAPI • LangChain • Tableau
+
+## Contact
+- LinkedIn: <link>
+- Email: <your email>
