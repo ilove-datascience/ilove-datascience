@@ -1,8 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Jacob%20Wong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Systems&descSize=18&descAlignY=58&descColor=cccccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jacob%20Wong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Systems&descSize=18&descAlignY=58&descColor=a9b1d6)
+
+<br>
 
 Data Science student based in Singapore, focused on machine learning, AI systems, and applied data engineering.
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-wong-160898274/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwwl6424@gmail.com)
@@ -10,54 +14,52 @@ Data Science student based in Singapore, focused on machine learning, AI systems
 
 </div>
 
----
+<br>
 
-## Featured projects
+## Featured Projects
 
 <div align="center">
-
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td><a href="https://github.com/aether-raid/AERO"><img src="https://gh-card.dev/repos/aether-raid/AERO.svg?fullname=&theme=dark" /></a></td>
-    <td><a href="https://github.com/aether-sutd/CorticalRegionSelection"><img src="https://gh-card.dev/repos/aether-sutd/CorticalRegionSelection.svg?fullname=&theme=dark" /></a></td>
+    <td align="center"><a href="https://github.com/aether-raid/AERO"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aether-raid&repo=AERO&theme=tokyonight&hide_border=true" /></a></td>
+    <td align="center"><a href="https://github.com/aether-sutd/CorticalRegionSelection"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aether-sutd&repo=CorticalRegionSelection&theme=tokyonight&hide_border=true" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/maximchongADO/ICP_Verztec_Chatbot"><img src="https://gh-card.dev/repos/maximchongADO/ICP_Verztec_Chatbot.svg?fullname=&theme=dark" /></a></td>
-    <td><a href="https://github.com/maximchongg/PSA_hackathon"><img src="https://gh-card.dev/repos/maximchongg/PSA_hackathon.svg?fullname=&theme=dark" /></a></td>
+    <td align="center"><a href="https://github.com/maximchongADO/ICP_Verztec_Chatbot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximchongADO&repo=ICP_Verztec_Chatbot&theme=tokyonight&hide_border=true" /></a></td>
+    <td align="center"><a href="https://github.com/maximchongg/PSA_hackathon"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximchongg&repo=PSA_hackathon&theme=tokyonight&hide_border=true" /></a></td>
   </tr>
 </table>
-
 </div>
 
----
+<br>
 
-## Skills
+## Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
----
+<br>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilove-datascience&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilove-datascience&theme=tokyonight" />
 
 </div>
 
----
+<br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
