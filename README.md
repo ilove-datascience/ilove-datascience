@@ -13,14 +13,38 @@
 ## Featured Projects
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="6">
+<table border="0" cellspacing="12" cellpadding="0" width="100%">
   <tr>
-    <td align="center"><a href="https://github.com/aether-raid/AERO"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aether-raid&repo=AERO&theme=tokyonight&hide_border=true" /></a></td>
-    <td align="center"><a href="https://github.com/aether-sutd/CorticalRegionSelection"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aether-sutd&repo=CorticalRegionSelection&theme=tokyonight&hide_border=true" /></a></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aether-raid/AERO">
+        <img alt="AERO" src="https://img.shields.io/badge/AERO-GitHub-181717?logo=github&logoColor=white" width="100%" />
+      </a>
+      <br />
+      <sub>AI/ML research and systems project</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aether-sutd/CorticalRegionSelection">
+        <img alt="CorticalRegionSelection" src="https://img.shields.io/badge/CorticalRegionSelection-GitHub-181717?logo=github&logoColor=white" width="100%" />
+      </a>
+      <br />
+      <sub>Neuroscience and region selection work</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/maximchongADO/ICP_Verztec_Chatbot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximchongADO&repo=ICP_Verztec_Chatbot&theme=tokyonight&hide_border=true" /></a></td>
-    <td align="center"><a href="https://github.com/maximchongg/PSA_hackathon"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximchongg&repo=PSA_hackathon&theme=tokyonight&hide_border=true" /></a></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maximchongADO/ICP_Verztec_Chatbot">
+        <img alt="ICP_Verztec_Chatbot" src="https://img.shields.io/badge/ICP_Verztec_Chatbot-GitHub-181717?logo=github&logoColor=white" width="100%" />
+      </a>
+      <br />
+      <sub>Conversational AI and chatbot application</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maximchongg/PSA_hackathon">
+        <img alt="PSA_hackathon" src="https://img.shields.io/badge/PSA_hackathon-GitHub-181717?logo=github&logoColor=white" width="100%" />
+      </a>
+      <br />
+      <sub>Hackathon project and rapid prototyping</sub>
+    </td>
   </tr>
 </table>
 </div>
